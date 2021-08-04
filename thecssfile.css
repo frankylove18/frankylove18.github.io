@@ -1,0 +1,24 @@
+h1{
+  color: red;
+}
+h2{
+  color : darkgreen;
+}
+h3{
+  color: green;
+}
+pre{
+ font-family :Times New Roman;
+  font-size : 19px;
+}
+.a{
+  color: blue;
+}
+.s{
+  font-weight : bold;
+  text-align : center;
+  color: darkgreen;
+}
+.h{
+  font-weight : bold; 
+}
